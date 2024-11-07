@@ -12,12 +12,12 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 - ⚡ Fun fact: I love building small web apps just for fun!
 
 ## 🛠️ Technologies & Tools
-- ![HTML](https://img.shields.io/badge/HTML-5-1E3A8A?style=for-the-badge&logo=html5&logoColor=ffffff)  
-- ![CSS](https://img.shields.io/badge/CSS-3-1E3A8A?style=for-the-badge&logo=css3&logoColor=ffffff)  
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1.0-1E3A8A?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-1E3A8A?style=for-the-badge&logo=javascript&logoColor=ffffff)  
-- ![React](https://img.shields.io/badge/React-18-1E3A8A?style=for-the-badge&logo=react&logoColor=ffffff)  
-- ![Node.js](https://img.shields.io/badge/Node.js-16-1E3A8A?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1.0-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![React](https://img.shields.io/badge/React-18-blue)
+![Node.js](https://img.shields.io/badge/Node.js-16-green)
 
 ## 📈 GitHub Stats
 
