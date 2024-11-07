@@ -1,11 +1,13 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sarvar Khujamov 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast. Below you can find some details about me and my work.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning more about **React**, **Node.js**, and **Tailwind CSS**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- ## 📫 Reach me on Telegram
+[Click here to chat with me on Telegram](https://t.me/sarvarkhujamov)
+
 - ⚡ Fun fact: I love building small web apps just for fun!
 
 ## 🛠️ Technologies & Tools
