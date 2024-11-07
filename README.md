@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 ## 🚀 About Me
 - 🌱 I’m currently learning more about **React**, **Node.js**, and **Tailwind CSS**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- ## 📫 Reach me on Telegram  
-[Click here to chat with me on Telegram](https://t.me/sarvarkhujamov)
+- ## 📫 Reach me on [Telegram](https://t.me/sarvarkhujamov)
 - ## 📫 Reach me via Email  
 [Email me at sarvarkhujamov5@gmail.com](mailto:sarvarkhujamov5@gmail.com)
 - ⚡ Fun fact: I love building small web apps just for fun!
