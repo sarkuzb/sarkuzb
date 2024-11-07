@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 - ⚡ Fun fact: I love building small web apps just for fun!
 
 ## 🛠️ Technologies & Tools
-![HTML](https://img.shields.io/badge/HTML-5-orange)
+![HTML]([https://img.shields.io/badge/HTML-5-orange](https://img.shields.io/badge/HTML-5-1E3A8A?style=for-the-badge&logo=html5&logoColor=ffffff))
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1.0-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
