@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 - 🌱 I’m currently learning more about **React**, **Node.js**, and **Tailwind CSS**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - ## 📫 Reach me on [Telegram](https://t.me/sarvarkhujamov)
-- ## 📫 Reach me via Email  
-[Email me at sarvarkhujamov5@gmail.com](mailto:sarvarkhujamov5@gmail.com)
+- ## 📫 Reach me via [Email](mailto:sarvarkhujamov5@gmail.com)
 - ⚡ Fun fact: I love building small web apps just for fun!
 
 ## 🛠️ Technologies & Tools
@@ -19,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 - ![Node.js](https://img.shields.io/badge/Node.js-16-1E3A8A?style=for-the-badge&logo=node.js&logoColor=ffffff)
 
 ## 📈 GitHub Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarkuzb&show_icons=true&theme=blue)
 
 ## 📚 My Projects
