@@ -20,8 +20,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarkuzb&show_icons=true&theme=dark)
 
 ## 📚 My Projects
-- [Project 1](https://github.com/your-username/project-1) - Description of the project.
-- [Project 2](https://github.com/your-username/project-2) - Description of the project.
+- https://sarkuzb.github.io/Market-Place-MONZO/
