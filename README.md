@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast. Below you can find some details about me and my work.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning more about **React**, **Node.js** and **Tailwind CSS**.
+- 🌱 I’m currently learning more about **React**, **Node.js**, and **Tailwind CSS**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - ## 📫 Reach me on Telegram
 [Click here to chat with me on Telegram](https://t.me/sarvarkhujamov)
@@ -12,16 +12,16 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 - ⚡ Fun fact: I love building small web apps just for fun!
 
 ## 🛠️ Technologies & Tools
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1.0-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-18-blue)
-![Node.js](https://img.shields.io/badge/Node.js-16-green)
+![HTML](https://img.shields.io/badge/HTML-5-000000)
+![CSS](https://img.shields.io/badge/CSS-3-000000)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1.0-000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-000000)
+![React](https://img.shields.io/badge/React-18-000000)
+![Node.js](https://img.shields.io/badge/Node.js-16-000000)
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarkuzb&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarkuzb&show_icons=true&theme=radical)
 
 ## 📚 My Projects
-- https://sarkuzb.github.io/Market-Place-MONZO/
+- [Market-Place-MONZO](https://sarkuzb.github.io/Market-Place-MONZO/)
