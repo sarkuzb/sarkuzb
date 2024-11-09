@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast. Below you can find some details about me and my work.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning more about **React**, **Node.js**, and **Tailwind CSS**.
+- 🌱 I’m currently learning more about **React**, **Node.js** and **Tailwind CSS**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - ## 📫 Reach me on [Telegram](https://t.me/sarvarkhujamov)
 - ## 📫 Reach me via [sarvarkhujamov5@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
