@@ -29,9 +29,6 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 - ![React](https://img.shields.io/badge/React-18-1E3A8A?style=for-the-badge&logo=react&logoColor=ffffff)  
 - ![Node.js](https://img.shields.io/badge/Node.js-16-1E3A8A?style=for-the-badge&logo=node.js&logoColor=ffffff)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarkuzb&show_icons=true&theme=blue)
-
 ## 📚 My Projects
 - [Market-Place-MONZO](https://sarkuzb.github.io/Market-Place-MONZO/)
 - [Frontend Roadmap](https://github.com/sarkuzb/roadmap-for-frontend) **Still In Progress**
