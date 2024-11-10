@@ -3,7 +3,19 @@
 Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast. Below you can find some details about me and my work.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning more about **React**, **Node.js** and **Tailwind CSS**.
+### 🌱 I’m currently learning more about:
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+</p>
+
 - 👯 I’m looking to collaborate on **open-source projects**.
 - ## 📫 Reach me on [Telegram](https://t.me/sarvarkhujamov)
 - ## 📫 Reach me via [sarvarkhujamov5@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
