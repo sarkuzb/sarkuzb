@@ -21,6 +21,11 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 - ## 📫 Reach me via [sarvarkhujamov5@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 - ⚡ Fun fact: I love building small web apps just for fun!
 
+## 🌐 Languages
+- English: B2
+- Russian: A2
+- Uzbek: Native
+
 ## 🛠️ Technologies & Tools
 - ![HTML](https://img.shields.io/badge/HTML-5-1E3A8A?style=for-the-badge&logo=html5&logoColor=ffffff)  
 - ![CSS](https://img.shields.io/badge/CSS-3-1E3A8A?style=for-the-badge&logo=css3&logoColor=ffffff)  
