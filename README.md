@@ -1,4 +1,4 @@
-# Hello, I'm Sarvar Khujamov 
+# Hello, I'm Sarvar Khujamov ✨
 
 Welcome to my GitHub profile! I'm a web developer who loves technology. Here, you can find more information about me and my projects.
 
