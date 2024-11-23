@@ -36,5 +36,5 @@ Welcome to my GitHub profile! I'm a web developer who loves technology. Here, yo
 
 ## 📚 My Projects
 - [Market-Place-MONZO](https://sarkuzb.github.io/Market-Place-MONZO/)
-- [Frontend Roadmap](https://github.com/sarkuzb/roadmap-for-frontend)
+- [Roadmap](https://github.com/sarkuzb/roadmap)
 - [Portfolio For You || Free To Use](https://sarkuzb.github.io/Portfolio-2/)
