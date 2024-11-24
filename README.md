@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a web developer who loves technology. Here, yo
 - ![React](https://img.shields.io/badge/React-18-1E3A8A?style=for-the-badge&logo=react&logoColor=ffffff)  
 - ![Node.js](https://img.shields.io/badge/Node.js-16-1E3A8A?style=for-the-badge&logo=node.js&logoColor=ffffff)
 
-## 📚 My Project
+## 📚 My Projects
 - [Market-Place-MONZO](https://sarkuzb.github.io/Market-Place-MONZO/)
 - [Roadmap](https://github.com/sarkuzb/roadmap)
 - [Portfolio For You || Free To Use](https://sarkuzb.github.io/Portfolio-2/)
