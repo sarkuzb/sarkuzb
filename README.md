@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a web developer who loves technology. Here, you can find more information about me and my projects.
 
 ## 🚀 About Me
-### 🌱 I’m currently learning more about:
+### 🌱 I’m currently learning more about
 <p align="left">
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
