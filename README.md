@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a web developer who loves technology and building cool things on the web.
 
+🌐 **Check out my portfolio:** [sark-portfolio.vercel.app](https://sark-portfolio.vercel.app)
+
 ## 🚀 About Me
 
 - 👨‍💻 Currently learning:  
