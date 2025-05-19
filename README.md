@@ -2,22 +2,22 @@
 
 Welcome to my GitHub profile! I'm a web developer who loves technology and building cool things on the web.
 
-🌐 **Check out my portfolio:** [sark-portfolio.vercel.app](https://sark-portfolio.vercel.app)
+🌐 **Check out my portfolio:** <a href="https://sark-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">sark-portfolio.vercel.app</a>
 
 ## 🚀 About Me
 
 - 👨‍💻 Currently learning:  
   <p align="left">
-    <a href="https://react.dev/" target="_blank">
+    <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     </a>
-    <a href="https://nodejs.org/" target="_blank">
+    <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     </a>
-    <a href="https://tailwindcss.com/" target="_blank">
+    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     </a>
-    <a href="https://www.docker.com/" target="_blank">
+    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </a>
   </p>
