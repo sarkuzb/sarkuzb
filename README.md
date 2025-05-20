@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a web developer who loves technology and build
 
 ## 🌐 Languages
 - English: B2
-- Russian: A2
+- Russian: B1
 - Uzbek: Native
 
 ## 🛠️ Tools & Technologies
